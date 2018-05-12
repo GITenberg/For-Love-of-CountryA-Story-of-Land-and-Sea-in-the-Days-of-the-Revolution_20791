@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5591
     wikipedia: http://en.wikipedia.org/wiki/Cyrus_Townsend_Brady
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20791#For-Love-of-CountryA-Story-of-Land-and-Sea-in-the-Days-of-the-Revolution
 gutenberg_bookshelf: Children's Fiction
 gutenberg_issued: '2007-03-10'
 gutenberg_type: Text
