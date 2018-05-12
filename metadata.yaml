@@ -1,0 +1,28 @@
+_repo: For-Love-of-CountryA-Story-of-Land-and-Sea-in-the-Days-of-the-Revolution_20791
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Brady, Cyrus Townsend
+    birthdate: 1861
+    deathdate: 1920
+    gutenberg_agent_id: '5591'
+    url: http://www.gutenberg.org/2009/agents/5591
+    wikipedia: http://en.wikipedia.org/wiki/Cyrus_Townsend_Brady
+description: ''
+gutenberg_bookshelf: Children's Fiction
+gutenberg_issued: '2007-03-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20791'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'United States -- History -- Revolution, 1775-1783 -- Fiction'
+title: 'For Love of Country: A Story of Land and Sea in the Days of the Revolution'
+url: http://www.gutenberg.org/ebooks/20791
